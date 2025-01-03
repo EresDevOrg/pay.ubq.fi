@@ -152,3 +152,5 @@ Notice that this examples uses gnosis chain for nonce invalidation. If you need 
 
 1. Set `RPC_PROVIDER_URL` on step 1 to the desired RPC chain provider
 2. On step 3 open UI for the desired chain
+
+Test deploy
